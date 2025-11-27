@@ -5,7 +5,7 @@ Crear una tarjeta de presentación personal utilizando HTML y CSS que demuestre 
 ## Descripción
 Desarrollarás una tarjeta de perfil estilo "business card" digital. La tarjeta debe presentar información personal de manera organizada y visualmente atractiva. Deberás crear dos archivos: un archivo HTML para la estructura del contenido y un archivo CSS para los estilos visuales.
 
-### Requerimientos Funcionales
+## Requerimientos Funcionales
 
 *La tarjeta debe incluir:*
 
@@ -36,31 +36,30 @@ Desarrollarás una tarjeta de perfil estilo "business card" digital. La tarjeta 
 - Efecto hover en los enlaces
 - Ancho máximo de la tarjeta: 400px
 
-### Criterios de Evaluación
+## Criterios de Evaluación
 
-- Estructura HTML (30%): Código semántico, bien indentado y organizado
-- Estilos CSS (30%): Aplicación correcta de propiedades, consistencia visual
-- Diseño Visual (20%): Atractivo estético, legibilidad, uso apropiado de espacios
-- Funcionalidad (20%): Todos los enlaces funcionan, imagen se carga correctamente
+- **Estructura HTML (30%):** Código semántico, bien indentado y organizado
+- **Estilos CSS (30%):** Aplicación correcta de propiedades, consistencia visual
+- **Diseño Visual (20%):** Atractivo estético, legibilidad, uso apropiado de espacios
+- **Funcionalidad (20%):** Todos los enlaces funcionan, imagen se carga correctamente
 
 ### Entregables
 
 1. Archivo index.html
 2. Archivo styles.css
-Carpeta images con la foto de perfil
-Archivo README.md explicando brevemente el proyecto
+3. Carpeta images con la foto de perfil
+4. Archivo README.md explicando brevemente el proyecto
 
-**Tiempo Estimado:**
-
+### Tiempo Estimado:
 1-2 días
 
-**Recursos Sugeridos**
+### Recursos Sugeridos
 
 1. Google Fonts: https://fonts.google.com
 2. Placeholder de imágenes: https://placeholder.com o https://unsplash.com
 3. Paletas de colores: https://coolors.co
 
-**Notas Adicionales**
+## Notas Adicionales
 
 - No uses frameworks CSS como Bootstrap o Tailwind
 - Todo el CSS debe ser escrito por ti
