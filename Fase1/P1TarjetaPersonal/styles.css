@@ -6,6 +6,9 @@
 
     --tipografia-principal: 'anton sc';
     --tipografia-secundaria: "lexend";
+
+    --font-size-titulo: 1rem;
+    --font-size-texto: 0.6rem;
 }
 
 body{
@@ -34,7 +37,7 @@ body{
 }
 .profile {
     width: 70%;
-    height: 50%;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 10%;
     background-color: bisque;
@@ -49,17 +52,17 @@ body{
 h1{
     font-family: var(--tipografia-principal);
     font-weight: lighter;
-    font-size: 100%;
+    font-size: var(--font-size-titulo);
     margin: 0;
-
 }
 
 h2,  ul, p{
     font-family: var(--tipografia-secundaria) ;
-    font-size: 60%;
+    font-size: var(--font-size-texto);
     font-weight: 400;
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 
